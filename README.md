@@ -1,2 +1,2 @@
-# SimpleProjectManagerTS
-A simple Typescript Application that add entries and drag and drop it to different category
+# Typescripts
+A simple Typescripts application bundled with webpack
